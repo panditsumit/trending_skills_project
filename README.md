@@ -24,7 +24,7 @@ It runs an agent that calls MCP tools to gather real-time demand data, then synt
 ## Setup
 
 ```bash
-git clone https://github.com/sumitpandit/trending_skills_project.git
+git clone https://github.com/pandit/trending_skills_project.git
 cd trending_skills_project
 pip install -r requirements.txt
 cp .env.example .env  # add your TAVILY_API_KEY
